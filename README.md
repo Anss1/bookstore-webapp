@@ -1,1 +1,1 @@
-# book-store-webapp using servlet and jsp
+# Bookstore-webapp using servlet and jsp
